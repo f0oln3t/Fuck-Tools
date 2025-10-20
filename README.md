@@ -1,3 +1,16 @@
 # Terms Of Service
 - Jangan menggunakankan Tools ini untuk kejahatan
 - Developer tidak akan bertanggung Jawab jika ada masalah
+
+# Cara Memulai
+
+## Termux: 
+``` bash
+pkg update && pkg upgrade
+pkg install git python3
+pkg install figlet
+pip install lolcat
+git clone https://github.com/f0oln3t/Fuck-Tools.git
+pip install -r requirement.txt
+python f-tools.py
+```
