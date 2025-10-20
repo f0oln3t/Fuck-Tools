@@ -25,4 +25,4 @@ pip install -r requirement.txt
 python f-tools.py
 ```
 ## Auto Instalf0oln3tt
-COMING SOON!
+[`COMING SOON!`]
