@@ -1,3 +1,5 @@
+# Informasi
+
 # Terms Of Service
 - Jangan menggunakankan Tools ini untuk Memulai
 - Developer tidak akan bertanggung Jawab jika ada masalah
