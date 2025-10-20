@@ -1,3 +1,4 @@
+
 # Informasi
 
 Skrip ini dibuat oleh [F0olN3t](https://github.com/f0oln3t) menggunakan [`Python`](https://python.com) F0olN3t Skrip ini saat ini masih dalam tahap pengembangan (BETA), jadi mungkin masih ada beberapa kesalahan yang dapat diabaikan. Jika kesalahan tetap ada bahkan setelah proses debug, silakan hubungi pemilik untuk mendapatkan bantuan.
@@ -34,6 +35,13 @@ python f-tools.py
 
 # Donate
 
-- Bitcoin
-
+- BitCoin
+```btc
+bc1q3gez06z7qhtrqa6xn5qvmzs2tx22d8w96z3vtx
+```
 - DogeCoin
+```doge
+D77twToh8dPRhaRYXMXNTd1yCs2Z5unvXg
+```
+
+
