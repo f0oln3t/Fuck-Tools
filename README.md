@@ -1,5 +1,5 @@
 # Terms Of Service
-- Jangan menggunakankan Tools ini untuk kejahatan
+- Jangan menggunakankan Tools ini untuk Memulai
 - Developer tidak akan bertanggung Jawab jika ada masalah
 
 # Cara Memulai
@@ -24,3 +24,5 @@ git clone https://github.com/f0oln3t/Fuck-Tools.git
 pip install -r requirement.txt
 python f-tools.py
 ```
+## Auto Instalf0oln3tt
+COMING SOON!
