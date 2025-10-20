@@ -29,5 +29,7 @@ git clone https://github.com/f0oln3t/Fuck-Tools.git
 pip install -r requirement.txt
 python f-tools.py
 ```
-## Auto Instalf0oln3tt
+## AutoInstall
 [`COMING SOON!`]
+
+# Donatetcoin
