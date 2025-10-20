@@ -14,3 +14,13 @@ git clone https://github.com/f0oln3t/Fuck-Tools.git
 pip install -r requirement.txt
 python f-tools.py
 ```
+## KaliLinux: 
+``` bash
+sudo apt update && sudo apt upgrade
+sudo apt install git python3
+sudo apt install figlet
+pip install lolcat
+git clone https://github.com/f0oln3t/Fuck-Tools.git
+pip install -r requirement.txt
+python f-tools.py
+```
