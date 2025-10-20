@@ -32,4 +32,8 @@ python f-tools.py
 ## AutoInstall
 [`COMING SOON!`]
 
-# Donatetcoin
+# Donate
+
+- Bitcoin
+- Bitcoin
+- oin
