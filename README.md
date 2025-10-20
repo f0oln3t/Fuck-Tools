@@ -35,5 +35,5 @@ python f-tools.py
 # Donate
 
 - Bitcoin
-- Bitcoin
-- oin
+
+- DogeCoin
