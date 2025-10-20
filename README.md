@@ -1,6 +1,6 @@
 # Informasi
 
-Skrip ini dibuat oleh F0olN3t(https://github.com/f0oln3t) menggunakan [`Python`](https://python.com) F0olN3t Skrip ini saat ini masih dalam tahap pengembangan (BETA), jadi mungkin masih ada beberapa kesalahan yang dapat diabaikan. Jika kesalahan tetap ada bahkan setelah proses debug, silakan hubungi pemilik untuk mendapatkan bantuan.
+Skrip ini dibuat oleh [F0olN3t](https://github.com/f0oln3t) menggunakan [`Python`](https://python.com) F0olN3t Skrip ini saat ini masih dalam tahap pengembangan (BETA), jadi mungkin masih ada beberapa kesalahan yang dapat diabaikan. Jika kesalahan tetap ada bahkan setelah proses debug, silakan hubungi pemilik untuk mendapatkan bantuan.
 ~ F0olN3t
 
 # Terms Of Service
