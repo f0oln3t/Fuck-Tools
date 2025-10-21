@@ -12,7 +12,7 @@ Script ini dibuat oleh [F0olN3t](https://github.com/f0oln3t) menggunakan [`Pytho
 
 # Cara Memulai
 
-## Termux: 
+## Termux(Root Only): 
 ``` bash
 pkg update && pkg upgrade
 pkg install git python3
