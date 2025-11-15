@@ -10,31 +10,6 @@ Script ini dibuat oleh [F0olN3t](https://github.com/f0oln3t) menggunakan [`Pytho
 - Jangan rename tools ini jika belum mendapatkan izin Developer
 - Developer tidak akan bertanggung jawab jika kamu melanggar
 
-# Cara Memulai
-
-## Termux(Root Only): 
-``` bash
-pkg update && pkg upgrade
-pkg install git python3
-pkg install figlet
-pip install lolcat
-git clone https://github.com/f0oln3t/Fuck-Tools.git
-pip install -r requirement.txt
-python f-tools.py
-```
-## KaliLinux: 
-``` bash
-sudo apt update && sudo apt upgrade
-sudo apt install git python3
-sudo apt install figlet
-pip install lolcat
-git clone https://github.com/f0oln3t/Fuck-Tools.git
-pip install -r requirement.txt
-python f-tools.py
-```
-## AutoInstall
-[`COMING SOON!`]
-
 # Donate
 
 - BitCoin
@@ -45,3 +20,6 @@ bc1q3gez06z7qhtrqa6xn5qvmzs2tx22d8w96z3vtx
 ```doge
 D77twToh8dPRhaRYXMXNTd1yCs2Z5unvXg
 ```
+
+## DM me on Telegram
+@foolnett
