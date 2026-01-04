@@ -22,4 +22,4 @@ D77twToh8dPRhaRYXMXNTd1yCs2Z5unvXg
 ```
 
 ## DM me on Telegram
-@foolnett
+[@foolnett](https://t.me/foolnett)
